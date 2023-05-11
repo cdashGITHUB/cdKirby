@@ -1,0 +1,59 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+#header {
+	background-color: #F7C8EF;
+	text-align: center;
+	padding: 1% 0;
+}
+
+blockquote {
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+img {
+	display: block;
+	width: 25%;
+	float: right;
+}
+
+table {
+	width: 85%;
+	background-color: #F57CE0;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #753C6C;
+}
+
+main {
+	padding: 0 2%;
+	min-height: 500px;
+}
+
+
+footer {
+	background-color: #C263B2;
+	text-align: center;
+	padding: 1% 2%;
+	min-height: 150px;
+}
+
+nav {
+	font-size: 1.2em;
+}
+
+nav a {
+	color: #000;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #FFF;
+	background-color: #000;
+}
