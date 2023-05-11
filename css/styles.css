@@ -27,6 +27,14 @@ table {
 	margin: 0 auto;
 }
 
+h1 {
+	font-size: 1.3em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+
 body {
 	background-color: #753C6C;
 }
